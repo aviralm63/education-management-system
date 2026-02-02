@@ -1,4 +1,6 @@
 {
+    "name": "edtech-learning-platform",
+    "description": "EdTech Learning Platform - A Comprehensive Learning Management System",
     "private": true,
     "scripts": {
         "dev": "npm run development",

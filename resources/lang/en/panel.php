@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'site_title' => 'AISES EDUC',
+    'site_title' => 'EDTECH LEARNING PLATFORM',
 ];

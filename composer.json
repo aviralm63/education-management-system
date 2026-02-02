@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "edtech/learning-platform",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "EdTech Learning Platform - A Comprehensive Learning Management System",
+    "keywords": ["laravel", "lms", "learning", "education", "edtech"],
     "license": "MIT",
     "require": {
         "php": "^8.0.2",

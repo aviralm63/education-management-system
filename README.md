@@ -1,14 +1,14 @@
-# Education Management System (EMS)
+# EdTech Learning Platform
 
 <p align="center">
-  <strong>A Comprehensive Educational Platform for Modern Learning Management</strong>
+  <strong>A Comprehensive Learning Management System for Educational Excellence</strong>
 </p>
 
 ---
 
 ## 📋 Project Overview
 
-The Education Management System (EMS) is a robust Laravel-based web application designed to provide a complete solution for educational institutions. It serves students, instructors, and administrators with an integrated platform for course management, task assignment, video content delivery, and comprehensive role-based access control.
+EdTech Learning Platform is a robust Laravel-based web application designed to provide a complete solution for educational institutions. It serves students, instructors, and administrators with an integrated platform for course management, task assignment, video content delivery, and comprehensive role-based access control.
 
 **Key Features:**
 - ✅ User Management (Students, Instructors, Administrators)
@@ -65,14 +65,14 @@ php artisan key:generate
 Edit the `.env` file and configure the following variables:
 
 ```env
-APP_NAME="Education Management System"
+APP_NAME="EdTech Learning Platform"
 APP_URL=http://localhost:8000
 
 # Database Configuration
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=education_db
+DB_DATABASE=edtech_db
 DB_USERNAME=root
 DB_PASSWORD=
 
